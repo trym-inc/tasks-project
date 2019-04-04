@@ -4,7 +4,7 @@ Create a React web application that consumes the provided JSON data payload of f
 
 The application should show a functional display of the JSON data.  For example; a calendar view, an "upcoming tasks" view, etc.  Be as creative as you'd like here.
 
-JSON API: https://code.trym.io/tasks
+JSON API: https://code.trym.io/api/tasks
 
 ##### Tasks application must:
 - Use the React Javascript Framework
