@@ -8,7 +8,7 @@ JSON API: https://code.trym.io/tasks
 
 ##### Tasks application must:
 
-- Use the React Javascript Framework
+- Use the **React** Javascript Framework
 - Use at least one custom React component
 - Use at least one custom method to handle data manipulation
 - Must consume JSON data via API (provided above)
@@ -21,12 +21,12 @@ JSON API: https://code.trym.io/tasks
 
 ##### Bonus points for:
 
-- Showcased usage of Redux, Mobx, etc
-- Integration of `styled-components`: https://www.styled-components.com/docs
+- Showcased usage of **Redux**, **Mobx**, etc
+- Integration of **Styled Components**
 - Ability to add new tasks to the visual output
 - Ability to manipulate existing tasks
-- Integration of eslint, prettier, standard, etc
-- Integration with a provided backend API using Restify, Express, etc
+- Integration of **eslint**, **prettier**, **standard**, etc
+- Integration with a provided backend API using **Restify**, **Express**, etc
 - Anything you feel fun to add to showcase your Javascript powers
 
 ### Project Delivery
