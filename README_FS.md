@@ -9,27 +9,28 @@ The application should showcase the ability to add tasks from a user interface a
 - Use the **React** Javascript Framework
 - Use at least one custom React component
 - Use at least one custom method to handle data manipulation
-- Be documented in code
 - Have tests for provided custom method(s)
   - Use any Javascript testing framework
   - Must be testable from `npm test` or `yarn test` respectively
   Have functional tests provided for back-end API endpoints using pytest
 - Successfully build from command line
+- Be well documented
 
 ##### Tasks application backend must:
 
 - Be written in **Python**
-- Utilize the **Django** Python framework
-- Connect to a **Postgres** database
-  - Include migrations and initial schema for a fresh install
+- Utilize the **Django** framework
+- Connect to a **Postgres**, **MySQL** database, or similar
+  - Include migrations and initial schema for a clean install
+  - Include platform specific instructions for a clean install, if any
 - Include all CRUD endpoints
   - Create task
   - Read ...
   - Update ...
   - Delete ...
-- Have functional tests provided with **Pytest**
-- Include a `requirements.txt` file with proper dependencies
-- Include API documentation
+- Have functional tests provided with **Pytest** or similar
+- Include a `requirements.txt` file with necessary dependencies needed for install
+- Be well documented
 
 ##### Bonus points for:
 
