@@ -30,8 +30,6 @@ JSON API: https://code.trym.io/api/tasks
 
 ### Project Delivery
 
-Please deliver the code for your project in a Github repository complete with a `README.md` supplying instructions on installation, testing and building.  Repo must clearly show initial commit as well as a well-described chain of commits showing the evolution of your progress.
-
-Send your repo link to sean@trym.io once you're all wrapped up.
+Once completed, upload a ZIP file of your project contents (minus `node_modules`).
 
 Have fun, and good luck!
