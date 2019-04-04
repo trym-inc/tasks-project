@@ -23,7 +23,7 @@ JSON API: https://code.trym.io/api/tasks
 - Integration of `styled-components`: https://www.styled-components.com/docs
 - Ability to add new tasks to the visual output
 - Ability to manipulate existing tasks
-- Integration of eslint, prettier, standard, etc
+- Integration of `eslint`, `prettier`, `standard`, etc
 - Integration with a provided backend API using Restify, Express, etc
 - Live application deployment to Heroku, Firebase, etc
 - Anything you feel fun to add to showcase your Javascript powers
