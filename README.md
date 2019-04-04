@@ -11,7 +11,7 @@ JSON API: https://code.trym.io/api/tasks
 - Use at least one custom React component
 - Use at least one custom method to handle data manipulation
 - Must consume JSON data via API (provided above)
-- Display multiple data inputs from from provided JSON 
+- Display multiple data inputs from provided JSON 
 - Be documented in code
 - Have tests for provided methods
   - Use any Javascript testing framework
