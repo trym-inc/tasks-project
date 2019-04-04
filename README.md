@@ -19,17 +19,18 @@ JSON API: https://code.trym.io/tasks
 - Successfully build from command line
 
 ##### Bonus points for:
+- Showcased usage of Redux, Mobx, etc
+- Integration of `styled-components`: https://www.styled-components.com/docs
 - Ability to add new tasks to the visual output
 - Ability to manipulate existing tasks
 - Integration of eslint, prettier, standard, etc
 - Integration with a provided backend API using Restify, Express, etc
+- Live application deployment to Heroku, Firebase, etc
 - Anything you feel fun to add to showcase your Javascript powers
 
 ### Project Delivery
 
 Please deliver the code for your project in a Github repository complete with a `README.md` supplying instructions on installation, testing and building.  Repo must clearly show initial commit as well as a well-described chain of commits showing the evolution of your progress.
-
-Please deploy the application and supply a link in the `README.md` where it can be tested live.
 
 Send your repo link to sean@trym.io once you're all wrapped up.
 
