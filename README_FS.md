@@ -4,6 +4,8 @@ Create a React front-end application communicating with a Python backend with a 
 
 The application should showcase the ability to add tasks from a user interface and display the changes within a browser.  The interface is required to be intuitive enough to manipulate a basic tasks data schema.
 
+The interface should also showcase an intuitive user experience. For example; a calendar view if tasks, an "upcoming tasks" view, etc. Be as creative as you'd like here.
+
 ##### Tasks application interface must:
 
 - Use the **React** Javascript Framework
@@ -20,7 +22,7 @@ The application should showcase the ability to add tasks from a user interface a
 
 - Be written in **Python**
 - Utilize the **Django** framework
-- Connect to a **Postgres**, **MySQL** database, or similar
+- Connect to a **Postgres**, **MySQL** or similar database
   - Include migrations and initial schema for a clean install
   - Include platform specific instructions for a clean install, if any
 - Include all CRUD endpoints
