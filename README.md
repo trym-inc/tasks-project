@@ -7,6 +7,7 @@ The application should show a functional display of the JSON data.  For example;
 JSON API: https://code.trym.io/tasks
 
 ##### Tasks application must:
+
 - Use the React Javascript Framework
 - Use at least one custom React component
 - Use at least one custom method to handle data manipulation
@@ -19,6 +20,7 @@ JSON API: https://code.trym.io/tasks
 - Successfully build from command line
 
 ##### Bonus points for:
+
 - Showcased usage of Redux, Mobx, etc
 - Integration of `styled-components`: https://www.styled-components.com/docs
 - Ability to add new tasks to the visual output
