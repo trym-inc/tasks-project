@@ -1,4 +1,4 @@
-# Tasks Project, Full-Stack
+# Tasks Project, Backend
 
 Create a Python backend application with a basic CRUD RESTful API.
 
