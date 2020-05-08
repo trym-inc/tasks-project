@@ -47,6 +47,6 @@ The interface should also showcase an intuitive user experience. For example; a 
 
 Please deliver the code for your project in a Github repository complete with a `README.md` supplying instructions on installation, testing and building. The repo must clearly show your initial commit as well as a well-described chain of commits showing the evolution of your progress.
 
-Send your repo link to sean@trym.io once you're all wrapped up.
+Send your repo link to cory@trym.io once you're all wrapped up.
 
 Have fun, and good luck!
